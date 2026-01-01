@@ -24,4 +24,4 @@ docker compose up --build
 ```
 
 ## 学習ログ
-- [Day1：Docker + TypeScript 学習ログ](doc/study-day01.md)
+- [Day1：Docker + TypeScript 学習ログ](docs/study-day01.md)
