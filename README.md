@@ -21,7 +21,7 @@ Docker上でTypeScriptの基礎を学習するためのリポジトリです。
 ## 起動方法
 ```bash
 docker compose up --build
-
+```
 
 ## 学習ログ
 - [Day1：Docker + TypeScript 学習ログ](doc/study-day01.md)
