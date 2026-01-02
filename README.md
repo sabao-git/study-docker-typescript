@@ -25,3 +25,4 @@ docker compose up --build
 
 ## 学習ログ
 - [Day1：Docker + TypeScript 学習ログ](docs/study-day01.md)
+- [Day2：union / typeof / オーバーロードの理解](docs/study-day02.md)
